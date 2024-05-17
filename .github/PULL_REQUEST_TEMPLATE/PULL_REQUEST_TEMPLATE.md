@@ -22,7 +22,7 @@
 
 **Which issue(s) this PR fixes**:
 <!--
-*Please provide the issues number or link.
+*Please provide the issues number or link .
 Usage: `Fixes #<issue number>`, or `Fixes (paste link of issue)`.
 -->
 Fixes #
